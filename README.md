@@ -1,7 +1,7 @@
 ### fmt.Println("Hello World!!") 👋
 
 - 🔭 Estou trabalhando atualmente com Back-End
-- 🌱 Estudando sobre DevOps e Cloud Providers
+- 🌱 Estudando sobre DevOps e Cloud Computing
 - 😄 Pronomes: ele/dele
 
 <div align="center">
