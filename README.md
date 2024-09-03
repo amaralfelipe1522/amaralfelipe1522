@@ -2,7 +2,6 @@
 
 - 🔭 Estou trabalhando atualmente com IA e Back-End
 - 🌱 Estudando sobre DevOps e Micro Serviços
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/amaralfelipe1522">
