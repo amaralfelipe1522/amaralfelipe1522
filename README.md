@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaralfelipe1522&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaralfelipe1522)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 <div style="display: inline_block"><br>
