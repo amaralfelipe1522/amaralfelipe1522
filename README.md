@@ -3,12 +3,6 @@
 - 🔭 Estou trabalhando atualmente com IA e Back-End
 - 🌱 Estudando sobre DevOps e Micro Serviços
 
-<div align="center">
-  <a href="https://github.com/amaralfelipe1522">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaralfelipe1522&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaralfelipe1522&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaralfelipe1522)](https://github.com/amaralfelipe1522/github-readme-stats)
 
 <div align="center">
